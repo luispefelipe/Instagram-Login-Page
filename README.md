@@ -1,2 +1,2 @@
 # Instagram-Login-Page
-Página inicial de login do Instagram, feita com CSS e HTML 5.
+Página inicial de login do Instagram, feita com CSS3 e HTML5.
